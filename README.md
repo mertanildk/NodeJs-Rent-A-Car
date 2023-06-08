@@ -1,5 +1,5 @@
 # NodeJs-Rent-A-Car
-Learing nodejs
+Learning nodejs
 
 CRUD işlemlerinde Mongoose Asenkron(async / await) yapısını kullanmayı zorunlu tutar.
 Yeni gelen güncelleme ile Create ve Update işlemlerinden sonra oluşturulan data direkt 
